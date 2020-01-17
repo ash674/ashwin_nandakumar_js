@@ -7,3 +7,15 @@
 .img-wrapper img {
   width: 100%;
 }
+
+#myButton {
+  background-color: black;
+  color: white;
+
+}
+
+#myButton:hover {
+  background-color: white;
+  color: black;
+  
+}
