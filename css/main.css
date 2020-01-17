@@ -17,5 +17,31 @@
 #myButton:hover {
   background-color: white;
   color: black;
-  
+
+}
+
+.black-bg {
+  background-color: black;
+}
+
+/*#rGrain:hover, #lGrain:hover {
+  fill: red;
+}*/
+
+#beerGraphic:hover #lGrain {
+  fill: red;
+}
+
+
+#beerGraphic:hover #rGrain {
+  fill: red;
+}
+
+#beerGraphic:hover #lstar {
+  fill: gold;
+}
+
+
+#beerGraphic:hover #rstar {
+  fill: gold;
 }
