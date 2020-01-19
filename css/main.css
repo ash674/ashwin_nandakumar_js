@@ -1,0 +1,47 @@
+.img-wrapper {
+  display: inline-block;
+  width: 40%;
+  padding: 10px 15px;
+}
+
+.img-wrapper img {
+  width: 100%;
+}
+
+#myButton {
+  background-color: black;
+  color: white;
+
+}
+
+#myButton:hover {
+  background-color: white;
+  color: black;
+
+}
+
+.black-bg {
+  background-color: black;
+}
+
+/*#rGrain:hover, #lGrain:hover {
+  fill: red;
+}*/
+
+#beerGraphic:hover #lGrain {
+  fill: red;
+}
+
+
+#beerGraphic:hover #rGrain {
+  fill: red;
+}
+
+#beerGraphic:hover #lstar {
+  fill: gold;
+}
+
+
+#beerGraphic:hover #rstar {
+  fill: gold;
+}
